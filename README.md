@@ -1,2 +1,2 @@
-# merge-conflict-resolve
-Training on resolving conflict
+# first-branch
+Training on resolving merge conflict
