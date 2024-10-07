@@ -1,2 +1,2 @@
-# merge-conflict-resolve
+# second-branch
 Training on resolving merge conflict
